@@ -1,18 +1,39 @@
 ![logo](https://github.com/hitiksha-patel/hitiksha-patel/blob/main/banner1.png)
-<h1 align="center">Hi 👋, I'm Hitiksha</h1>
-<h3 align="center">Experienced Full Stack Web Developer proficient in Python frameworks</h3>
+<h1 align="center">Hi 👋, I'm Hitiksha from Montreal, QC!</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer dedicated to crafting innovative digital solutions. My expertise spans both front-end and back-end development, with a particular love for backend work, including API creation and manipulation.</h3>
+
+💻 **Technologies I Love**:
+
+- **Backend**: Python (Django, Flask), Node.js, Express.js, PHP, Laravel, Java, C, C++
+- **Frontend**: React JS, HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, AJAX, jQuery
+- **Cloud & DevOps**: AWS, Vercel, GCP, Azure, Kubernetes, Docker
+- **Databases**: MySQL, PostgreSQL, MongoDB, Oracle, Redis, Firebase
+- **Security & Auth**: JWT, cryptography, PyCrypto
+  
+🌟 **What Drives Me**:
+
+- Tackling challenging problems and delivering robust, scalable solutions.
+- Continuous learning and staying updated with the latest technologies.
+- Enhancing user experiences through efficient and secure backend systems.
+
+💬 **Soft Skills**:
+
+- Strong communication, leadership, problem-solving, and teamwork abilities.
+- A relentless drive for continuous learning and development.
+
+🤔 **About my Activities**:
 
 - 🔭 I’m currently working on **my personal projects**
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://real-estate.hitikshapatel.com/](https://real-estate.hitikshapatel.com/)
+- 👨‍💻 My recent selfhosted MERN project is available at [https://real-estate.hitikshapatel.com/](https://real-estate.hitikshapatel.com/)
 
 - 💬 Ask me about **Python, Django, DRF, NodeJS, PHP, C, C++, JAVA**
 
 - 📫 How to reach me **hitiksha23@proton.me**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Orx0o2gOrHvy2DoO7MVAFSr1FviCKkvt/view?usp=sharing](https://drive.google.com/file/d/1Orx0o2gOrHvy2DoO7MVAFSr1FviCKkvt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Orx0o2gOrHvy2DoO7MVAFSr1FviCKkvt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
