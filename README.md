@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **hitiksha23@proton.me**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Orx0o2gOrHvy2DoO7MVAFSr1FviCKkvt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uHQBZ0rStg6lxnFMIuKyqAwh9TegjaXk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
