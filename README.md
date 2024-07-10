@@ -4,7 +4,7 @@
 
 💻 **Technologies I Love**:
 
-- **Backend**: Python (Django, Flask), Node.js, Express.js, PHP, Laravel, Java, C, C++
+- **Backend**: Python (Django, Flask), Node.js, Express.js, Java, Spring boot, PHP, Laravel, Java, C, C++
 - **Frontend**: React JS, HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, AJAX, jQuery
 - **Cloud & DevOps**: AWS, Vercel, GCP, Azure, Kubernetes, Docker
 - **Databases**: MySQL, PostgreSQL, MongoDB, Oracle, Redis, Firebase
