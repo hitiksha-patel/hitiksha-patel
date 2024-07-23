@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on **my personal projects**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **New Technologies**
 
 - 👨‍💻 My recent selfhosted MERN project is available at [https://real-estate.hitikshapatel.com/](https://real-estate.hitikshapatel.com/)
 
